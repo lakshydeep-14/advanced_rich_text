@@ -1,9 +1,9 @@
 name: advanced_rich_text
 description: The easiest way to create RichText in FLutter. A modified form of RichText widget.
 version: 0.0.1
-homepage: https://github.com/lakshydeep-14/advanced_rich_text.git
-repository: https://github.com/lakshydeep-14/advanced_rich_text.git/main
-issue_tracker: https://github.com/lakshydeep-14/advanced_rich_text.git/issues
+homepage: https://github.com/lakshydeep-14/advanced_rich_text
+repository: https://github.com/lakshydeep-14/advanced_rich_text/main
+issue_tracker: https://github.com/lakshydeep-14/advanced_rich_text/issues
 
 environment:
   sdk: ">=2.17.5 <3.0.0"
