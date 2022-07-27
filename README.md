@@ -2,7 +2,7 @@
 
 ## Intro
 
-Flutter AdvancedRichText with simple way to create a text lines with variety of text having different textstyles. 
+Flutter AdvancedRichText is the simple way to create RichText with variety of text having different textstyles. 
 
 - [Features](#features)
 - [Options](#options)
@@ -93,7 +93,7 @@ AdvanceRichText(
 ## Output
 
 
-<img src="/example/image/image.png" alt="flutter" width="500" height="500"/>
+<img src="/example/image/image.png" width="500" height="500"/>
 
 
 
