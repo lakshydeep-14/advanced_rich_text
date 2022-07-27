@@ -2,7 +2,7 @@
 
 ## Intro
 
-Flutter AdvancedRichText with simple way to create a text lines with variety of text having different textstyles. 
+Flutter AdvancedRichText is the simple way to create RichText with variety of text having different textstyles. 
 
 - [Features](#features)
 - [Options](#options)
