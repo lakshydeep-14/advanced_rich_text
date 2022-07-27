@@ -93,7 +93,7 @@ AdvanceRichText(
 ## Output
 
 
-<img src="/example/image/image.png" alt="flutter" width="500" height="500"/>
+<img src="/example/image/image.png" width="500" height="500"/>
 
 
 
