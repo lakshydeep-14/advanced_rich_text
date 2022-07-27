@@ -7,6 +7,8 @@ Flutter AdvancedRichText with simple way to create a text lines with variety of 
 - [Features](#features)
 - [Options](#options)
 - [Usage](#usage)
+- [Output](#output)
+
 
 
 ## Features
@@ -88,8 +90,10 @@ AdvanceRichText(
         ),
 
 ```
+## Output
 
-<img src="/example/image/image.png" alt="flutter" width="200" height="200"/>
+
+<img src="/example/image/image.png" alt="flutter" width="500" height="500"/>
 
 
 
